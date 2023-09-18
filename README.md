@@ -1,4 +1,3 @@
-# Hi there, I'm Minsoo Choi 👋
 
 <!-- 
 ## 👨🏻‍💻 About Me
