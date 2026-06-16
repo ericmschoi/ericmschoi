@@ -20,3 +20,8 @@ Check out my pinned repositories below:
 - **JobLens AI** — AI job description analyzer for resume tailoring and skill-gap insights
 - **Interview Answer Coach** — AI coach for behavioral and technical interview answers
 - **Coding Interview Practice** — LeetCode patterns and interview notes
+
+## Contact
+
+- GitHub: [github.com/ericmschoi](https://github.com/ericmschoi)
+- LinkedIn: https://www.linkedin.com/in/eric-choi-103b28357
