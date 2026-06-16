@@ -1,42 +1,98 @@
+# Hi, I'm Eric Choi
 
-<!-- 
-## 👨🏻‍💻 About Me
-I love creating things, and I'm passionate about [Your Interests]. In my free time, you'll find me [Your Hobbies].
+- Full-stack software engineer with production experience in account opening flows, partner integrations, and reliable customer-facing web services.
 
- -->
-## 🔭 Works
+- I mainly work with Java/Spring Boot and React/TypeScript, and I’m currently exploring practical AI products for career growth, relocation, interview preparation, and content planning.
 
-**[알고리즘 기록](https://github.com/lucaschoi99/CodingTest_study)**
-- 2020 ~ 2022년 기록한 `알고리즘 풀이 기록`입니다.
-- 2023년 ~ 현재는 [개인 블로그](https://velog.io/@lucaschoi) 에 기록하고 있습니다.
+## Tech Stack
 
-**[Blog Project](https://github.com/lucaschoi99/project-choi-blog)**
-- `API 개발 과정` 을 학습한 Rest API 블로그 프로젝트 입니다.
-- Spring Rest Docs
+**Backend**  
+Java, Spring Boot, REST APIs, SQL
 
-**[QA board Project](https://github.com/lucaschoi99/QA-Board)**
-- JPA, QueryDsl, Spring Security 를 이용한 게시판 프로젝트 입니다.
+**Frontend**  
+React, TypeScript, React Query
 
+**AI / Productivity**  
+LLM APIs, prompt design, workflow automation, structured outputs
 
-## 🛠 Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=flat-square&logo=Thymeleaf&logoColor=white">
-  <img src="https://img.shields.io/badge/REST%20API-336791.svg?style=flat-square&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white">
-</p>
+**Engineering Focus**  
+Account opening flows, customer onboarding, partner integrations, reliability, reusable UI patterns
 
+## Featured Projects
 
-## 🤝🏻 Connect with me
-<p align="center">
-  <a href="https://velog.io/@lucaschoi"><img src="https://img.shields.io/badge/Velog.lucaschoi-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-  <a href="mailto:ms.lucaschoi@gmail.com"><img src="https://img.shields.io/badge/ms.lucaschoi@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+### 1. JobLens AI
+AI-powered job analysis tool for software engineers.
 
+Features:
+- Parse job descriptions and extract required skills
+- Compare job requirements with my resume/project experience
+- Generate tailored resume bullet suggestions
+- Highlight missing skills and preparation priorities
 
-<!-- 
-## 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaschoi99&show_icons=true&count_private=true&theme=radical&langs_count=3)
+**Status:** In Progress / MVP design
 
--->
+---
+
+### 2. AI Vlog Planner
+AI-powered planning tool for YouTube and vlog content.
+
+Features:
+- Generate vlog episode ideas
+- Turn personal notes into video outlines
+- Create title, thumbnail, and script ideas
+- Organize footage and story flow
+
+**Status:** Planned
+
+---
+
+### 3. Interview Answer Coach
+AI interview practice tool for behavioral and technical interview answers.
+
+Features:
+- Generate interview questions based on a target role
+- Review STAR-format answers
+- Suggest clearer, more natural English responses
+- Help refine project explanations for software engineering interviews
+
+**Status:** Planned
+
+---
+
+### 4. Coding Interview Practice
+Algorithm and coding interview preparation archive.
+
+Content:
+- LeetCode pattern notes
+- Java and Python solutions
+- Time and space complexity explanations
+- Common interview approaches and edge cases
+
+**Status:** Planned
+
+---
+
+## Case Studies
+
+I’m also building sanitized case studies from production work.  
+These focus on `real engineering experience` without exposing internal systems, customer data, or confidential implementation details.
+
+Include:
+- Partner-integrated account opening flows
+- Multi-step customer onboarding
+- Complex validation and edge-case handling
+- Post-launch monitoring and reliability improvements
+- Reusable UI patterns for faster product additions
+
+## Current Focus
+
+- Building AI-assisted tools that solve practical personal and career problems
+- Preparing for full-stack/backend software engineering roles in Canada
+- Turning production experience into clear portfolio case studies
+- Improving coding interview and technical communication skills
+
+## Contact
+
+- GitHub: [github.com/ericmschoi](https://github.com/ericmschoi)
+- LinkedIn: 
+- Portfolio: 
