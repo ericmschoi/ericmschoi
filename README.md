@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eric Choi 
 
-- Full stack software engineer focused on **Java/Spring Boot**, **React/TypeScript**, and practical AI tools.
+- Full Stack Software Engineer focused on **Java/Spring Boot**, **React/TypeScript**, and practical AI tools.
 
 - I have production experience building customer facing web services, including **account opening flows**, partner integrations, reusable UI patterns, and reliability improvements.
 
@@ -8,15 +8,15 @@
 
 ## Focus
 
-- Full stack web development
-- Account opening & customer onboarding flows
+- Full Stack web development
+- Account opening & customer onboarding flows *(from my previous role)*
 - Practical AI tools for career and productivity
 - Coding interview preparation
 
 ## Featured Projects
 
 Check out my pinned repositories below:
-- **Portfolio** — sanitized case studies from real engineering experience
+- **Portfolio** — Sanitized case studies *(from my previous role)*
 - **JobLens AI** — AI job description analyzer for resume tailoring and skill gap insights
 - **CELPIP AI Coach** — CELPIP Speaking and Listening AI coaching web app designed for both personal study and portfolio use.
 - **AI Vlog Planner (Planned)** — AI tool for vlog ideas, outlines, and content planning
