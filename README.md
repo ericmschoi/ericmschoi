@@ -26,4 +26,4 @@ Check out my pinned repositories below:
 ## Contact
 
 - GitHub: [github.com/ericmschoi](https://github.com/ericmschoi)
-- LinkedIn: https://www.linkedin.com/in/eric-choi-103b28357
+- LinkedIn: https://www.linkedin.com/in/msceric/
