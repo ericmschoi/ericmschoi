@@ -8,7 +8,7 @@
 
 ## Focus
 
-- Full Stack web development
+- Full Stack(Backend-focused) web development
 - Account opening & customer onboarding flows *(from my previous role)*
 - Practical AI tools for career and productivity
 - Coding interview preparation
